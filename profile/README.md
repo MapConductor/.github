@@ -1,7 +1,5 @@
 # Map Conductor - Unified Map SDK API
 
-![flyer](https://github.com/user-attachments/assets/d2410507-de0f-4b77-a761-83ad6a157ec5)
-
 MapConductor is an abstraction layer over multiple Map SDKs.
 It means you can manipulate any SDKs supported by MapConductor with one common syntax code.
 
